@@ -275,7 +275,7 @@ a:focus {
 }
 
 .content__title-sub {
-	color: var(--color-content-title-sub);
+	color: #FFFFFF; /* Màu trắng */
 	font-size: 4vw;
 	display: block;
 	margin-left: 3vw;
