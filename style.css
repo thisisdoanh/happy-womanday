@@ -29,7 +29,7 @@ body {
     --color-bg: #0c0c0c;
     --color-link: #6b5537;
 	--color-link-hover: #fff;
-	--color-content-title-sub: #FFFFFF;
+	-color-content-title-sub: #6b5537;
     color: var(--color-text);
     background-color: var(--color-bg);
 	/* background: url('./img/picture.jpg') , rgba(0, 0, 0, 0.5); */
